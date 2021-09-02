@@ -1,0 +1,12 @@
+git config user.email
+git config user.name
+git clone
+
+git init
+git remote add origin <gitlink>
+git clone url
+git remote -v
+git add .
+git commit -m "first commit"
+git push origin master
+git help
